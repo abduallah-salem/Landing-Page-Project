@@ -46,7 +46,7 @@ function reachedFooter() {
         //Show button
         scrlTopPage.classList.add('hidden');
     }
-};
+}
 
 //Scroll to the top of the page
 function scrollToTop() {
